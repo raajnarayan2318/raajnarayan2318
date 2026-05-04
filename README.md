@@ -2,7 +2,7 @@
 
 **Data Engineer · Analytics Engineer · LLM Pipeline Builder · Houston, TX**
 
-I architect end-to-end data systems — from raw ingestion to production analytics — and embed AI into workflows that scale. Currently open to Data Engineer and Analytics Engineer roles at product-driven companies.
+I architect end-to-end data systems from raw ingestion to production analytics and embed AI into workflows that scale. Currently open to Data Engineer and Analytics Engineer roles at product-driven companies.
 
 ---
 
@@ -42,7 +42,7 @@ Live data engineering platform processing global GitHub activity. Built with **P
 ### [E-commerce Delivery Risk Predictor](https://github.com/raajnarayan2318/olist-analytics-project)
 End-to-end analytics pipeline on the Olist dataset. **Python, DuckDB, Scikit-Learn, and Streamlit** — ML model predicting late deliveries with an interactive KPI dashboard.
 
-### AI-Adaptive Scraping Framework *(private — available on request)*
+### AI-Adaptive Scraping Framework *(private - available on request)*
 LLM-integrated extraction system using **Python, Selenium, and DeepSeek** for zero-config data ingestion with AI-driven schema inference. Expanded source coverage by 70% with no manual reconfiguration.
 
 ---
@@ -51,7 +51,7 @@ LLM-integrated extraction system using **Python, Selenium, and DeepSeek** for ze
 
 - 🏗 Building a RAG-powered portfolio agent
 - 📜 Studying for AWS Cloud Practitioner certification
-- 💻 Active on LeetCode — working through DSA fundamentals
+- 💻 Active on LeetCode
 
 ---
 
